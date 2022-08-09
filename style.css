@@ -10,7 +10,7 @@
   font-display: block;
 }
 
-[class^="tt-icon."], [class*=" tt-icon."] {
+[class^="tt-icon"], [class*="tt-icon"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'deposittemplates' !important;
   speak: never;

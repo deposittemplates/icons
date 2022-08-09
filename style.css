@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'deposittemplates';
-  src:  url('fonts/deposittemplates.eot?h48y2k');
-  src:  url('fonts/deposittemplates.eot?h48y2k#iefix') format('embedded-opentype'),
-    url('fonts/deposittemplates.ttf?h48y2k') format('truetype'),
-    url('fonts/deposittemplates.woff?h48y2k') format('woff'),
-    url('fonts/deposittemplates.svg?h48y2k#deposittemplates') format('svg');
+  src:  url('deposittemplates.eot?h48y2k');
+  src:  url('deposittemplates.eot?h48y2k#iefix') format('embedded-opentype'),
+    url('deposittemplates.ttf?h48y2k') format('truetype'),
+    url('deposittemplates.woff?h48y2k') format('woff'),
+    url('deposittemplates.svg?h48y2k#deposittemplates') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;

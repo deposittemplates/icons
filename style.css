@@ -25,16 +25,16 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.tt-icon.degrees-0:before {
+.tt-icon.360-degrees-0:before {
   content: "\e900";
 }
-.tt-icon.degrees-1:before {
+.tt-icon.360-degrees-1:before {
   content: "\e901";
 }
-.tt-icon.degrees-2:before {
+.tt-icon.360-degrees-2:before {
   content: "\e902";
 }
-.tt-icon.degrees-3:before {
+.tt-icon.360-degrees-3:before {
   content: "\e903";
 }
 .tt-icon.a-0:before {
